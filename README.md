@@ -20,4 +20,6 @@ streamlit run main.py
 1. Upload a PDF
 2. Ask questions!
 
-![workflow_example](images/workflow_example.png)
+<p align="center">
+  <img src="images/workflow_example.png" />
+</p>
